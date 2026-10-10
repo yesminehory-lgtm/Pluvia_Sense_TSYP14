@@ -1,4 +1,4 @@
-# PLUVIA SENSE — pluvial flood watch
+# PLUVIA SENSE
 
 Real-time flood detection, citizen reporting, decision support and early warnings.
 Backend: Node >= 18, **no dependencies**. Frontend: one static page (MapLibre GL), served by the backend.
